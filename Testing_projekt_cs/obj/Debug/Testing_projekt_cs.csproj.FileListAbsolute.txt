@@ -1,0 +1,6 @@
+E:\visual studio\Testing_projekt_cs\Testing_projekt_cs\bin\Debug\Testing_projekt_cs.exe.config
+E:\visual studio\Testing_projekt_cs\Testing_projekt_cs\bin\Debug\Testing_projekt_cs.exe
+E:\visual studio\Testing_projekt_cs\Testing_projekt_cs\bin\Debug\Testing_projekt_cs.pdb
+E:\visual studio\Testing_projekt_cs\Testing_projekt_cs\obj\Debug\Testing_projekt_cs.csprojResolveAssemblyReference.cache
+E:\visual studio\Testing_projekt_cs\Testing_projekt_cs\obj\Debug\Testing_projekt_cs.exe
+E:\visual studio\Testing_projekt_cs\Testing_projekt_cs\obj\Debug\Testing_projekt_cs.pdb
